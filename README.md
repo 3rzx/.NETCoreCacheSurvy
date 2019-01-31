@@ -1,6 +1,8 @@
 # .NETCoreCacheSurvy
 This is a simple cache survy POC 
 
+You can get the performance of all cache mechanism by api and monitor the log.
+
 You need a text file to generate init Data.
 
 Origin Key File: a long string without any '\n', '\t', and space. 
